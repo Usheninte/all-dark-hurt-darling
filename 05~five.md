@@ -18,7 +18,7 @@
 
 - - -
 
-				###	[:yellow_heart: :arrow_up_small: :yellow_heart:](http://./04~four.md)
-	
-				###	[:yellow_heart: :arrow_down_small: :yellow_heart:](http://./home.md)
+###	[:yellow_heart: :arrow_up_small: :yellow_heart:](http://./04~four.md)
+
+###	[:yellow_heart: :arrow_down_small: :yellow_heart:](http://./home.md)
     

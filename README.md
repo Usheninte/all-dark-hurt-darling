@@ -2,9 +2,8 @@
 
 - - - 
 
-[@poetrique ON INSTAGRAM](http://instagram.com/poetrique)
+## [@poetrique ON INSTAGRAM](http://instagram.com/poetrique)
 
 - - -
 
-					
-					[:yellow_heart: :arrow_down_small: :yellow_heart:](http://./01~one.md)
+### [:yellow_heart: :arrow_down_small: :yellow_heart:](http://./01~one.md)

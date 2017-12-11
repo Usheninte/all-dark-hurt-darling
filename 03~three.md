@@ -19,6 +19,6 @@
 
 - - -
 
-				###	[:yellow_heart: :arrow_up_small: :yellow_heart:](http://./one.md)
-	
-				###	[:yellow_heart: :arrow_down_small: :yellow_heart:](http://./03~three.md)
+###	[:yellow_heart: :arrow_up_small: :yellow_heart:](http://./one.md)
+
+###	[:yellow_heart: :arrow_down_small: :yellow_heart:](http://./03~three.md)
