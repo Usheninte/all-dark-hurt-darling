@@ -17,7 +17,7 @@
 ### never feel hot    
 ### do the kind    
 ### never feel loved    
-
+### ...
 ### does my soul    
 ### never give up    
 ### even when i    
@@ -40,7 +40,7 @@
 ### in a numb way     
 ### i can say     
 ### it does taste sweet     
-
+### ...
 ### ... in a sad way     
 ### i do not care     
 ### it is better to feel that     
@@ -64,7 +64,7 @@
 ### does not know      
 ### the dust and cold      
 ### upon my soul     
-
+### ...
 ### a wave of numbness     
 ### an ocean of blackness      
 ### keeps my rhythm     
@@ -88,7 +88,7 @@
 ### for keeping me chill      
 ### from causing my mind      
 ### not to bubble or spill        
-
+### ...
 ### now i am depressed       
 ### my heart is harnessed       
 ### to a ball of fire        
@@ -110,10 +110,10 @@
 
 ### for me
 ### no one knows me
-
+### ...
 ### no juice within 
 ### all hard in me
-
+### ...
 ### i bleed to feel
 ### and feel nothing
 
