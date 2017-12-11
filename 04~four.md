@@ -19,7 +19,7 @@
 
 - - -
 
-###	[:yellow_heart: :arrow_up_small: :yellow_heart:](http://./03~three.md)
+###	[:yellow_heart: :arrow_up_small: :yellow_heart:](http://usheninte.github.io/all-dark-hurt-darling/03~three.md)
 
-###	[:yellow_heart: :arrow_down_small: :yellow_heart:](http://./05~five.md)
+###	[:yellow_heart: :arrow_down_small: :yellow_heart:](http://usheninte.github.io/all-dark-hurt-darling/05~five.md)
 

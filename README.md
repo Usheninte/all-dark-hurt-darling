@@ -6,4 +6,4 @@
 
 - - -
 
-### [:yellow_heart: :arrow_down_small: :yellow_heart:](http://./01~one.md)
+### [:yellow_heart: :arrow_down_small: :yellow_heart:](http://usheninte.github.io/all-dark-hurt-darling//01~one.md)
